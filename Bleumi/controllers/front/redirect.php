@@ -44,7 +44,7 @@ class BleumiRedirectModuleFrontController extends ModuleFrontController
             "id" => $uniq_order_id,
             "currency" => $currency->iso_code,
             "invoice_date" => intval(date("Ymd")),
-            "allow_partial_payments" => true,
+            "allow_partial_payments" => false,
             "metadata" => array(
                 "no_invoice" => true
             ),
