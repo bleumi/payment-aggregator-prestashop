@@ -110,9 +110,6 @@ class Utils
             $history->addWithemail(true, array(
                 'order_name' => Tools::getValue('order_id'),
             ));
-            $state = $order->getCurrentStateFull($order_current_status);
-            
-            PrestaShopLogger::addLog('[BLEUMI] Order status Marked as: ' . $state['name'] . ' #' . $order_id);
         }
     }
 }
