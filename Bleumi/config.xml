@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Bleumi</name>
+	<displayName><![CDATA[Bleumi Payments for Prestashop]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Accept Traditional and Crypto Currency Payments]]></description>
+	<author><![CDATA[Bleumi]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
