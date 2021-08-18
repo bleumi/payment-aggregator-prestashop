@@ -16,7 +16,7 @@ If you want to know if Bleumi supports your system or if you face any integratio
 
 ### Overview
 
-Please refer to the [Installation Guide](https://github.com/bleumi/payment-aggregator-prestashop/raw/main/Bleumi%20Payments%20-%20Installation%20Guide%20for%20Prestashop.pdf) for complete details.
+Please refer to the [Installation Guide](https://github.com/bleumi/payment-aggregator-prestashop/blob/main/Bleumi%20Payments%20%E2%80%93%20Installation%20Guide%20For%20Prestashop.pdf) for complete details.
 
 **Step 1: Configure your Bleumi Account:**
 
