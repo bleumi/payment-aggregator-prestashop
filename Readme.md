@@ -16,6 +16,8 @@ If you want to know if Bleumi supports your system or if you face any integratio
 
 ### Overview
 
+Please refer to the [Installation Guide](https://github.com/bleumi/payment-aggregator-prestashop/raw/main/Bleumi%20Payments%20-%20Installation%20Guide%20for%20Prestashop.pdf) for complete details.
+
 **Step 1: Configure your Bleumi Account:**
 
 * Add gateway accounts in the [Bleumi Portal](https://account.bleumi.com/account/?app=payment&tab=gateway)
@@ -24,8 +26,8 @@ If you want to know if Bleumi supports your system or if you face any integratio
 
 **Step 2: Install Bleumi Extension in Your Prestashop Store**
 
-* Download v1.0.0 from [here](https://github.com/bleumi/payment-aggregator-prestashop/releases/download/v1.0.0/bleumi-payments-for-prestashop.zip)
-* Upload the plugin to WordPress
+* Download v1.0 from [here](https://github.com/bleumi/payment-aggregator-prestashop/releases/download/v1.0/payment-aggregator-prestashop.zip)
+* Upload the plugin in Prestashop
 
 **Step 3: Configure Bleumi Extension in Your Prestashop Store**
 
